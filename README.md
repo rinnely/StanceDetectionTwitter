@@ -1,3 +1,3 @@
 # StanceDetectionTwitter
 
-This is not going good :(
+This is not going well :(
