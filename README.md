@@ -3,13 +3,13 @@
 ## Topic: Abortion in LATAM
 
 ## Preprosessing:
-  ### users as USERS
+   users as USERS
   
-  ### No last hashtags
+   No last hashtags
   
-  ### urls as URL
+   urls as URL
   
-  ### No emojis
+   No emojis
 
 
 ## F-beta: 83%
