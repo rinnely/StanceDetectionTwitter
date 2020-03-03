@@ -14,4 +14,4 @@
 
 ## F-beta: 83%
 
-## Final results here: 
+## Final results here: https://github.com/rinnely/StanceDetectionTwitter/blob/master/NN_aborto_tesis.ipynb
