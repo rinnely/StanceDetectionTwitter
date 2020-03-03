@@ -1,3 +1,3 @@
 # StanceDetectionTwitter
-
-This is not going well :(
+Topic: Abortion in LATAM
+F-beta: 83%
